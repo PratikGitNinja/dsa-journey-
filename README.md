@@ -3,7 +3,7 @@
 Documenting my focused preparation in Data Structures & Algorithms,
 targeting Data Engineer roles at product companies.
 
-**Background:** ~5 years in QA/Automation & Data Engineering | Python · AWS · Pipelines
+**Background:** Data Engineer | 2+ years in Data Engineering · 3+ years in QA Automation | Python · AWS · ETL & Data Pipelines
 **Approach:** Pattern-based mastery, not random grinding. Understand → explain → revise.
 
 ---
