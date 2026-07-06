@@ -12,7 +12,7 @@ targeting Data Engineer roles at product companies.
 
 | Pattern | Problems Solved | Status |
 |---|---|---|
-| Two Pointers | 3 | 🟡 In Progress |
+| Two Pointers | 4 | 🟡 In Progress |
 | Sliding Window | 0 | ⬜ Not Started |
 | Hashing | 0 | ⬜ Not Started |
 | Binary Search | 0 | ⬜ Not Started |
@@ -45,7 +45,7 @@ Each pattern has its own folder. Every solution includes:
 | 2026-07-05 | Two Sum II | Two Pointers | Easy | [two_sum_sorted.py](two-pointers/two_sum_sorted.py) |
 | 2026-07-05 | Valid Palindrome | Two Pointers | Medium | [valid_palindrome.py](two-pointers/valid_palindrome.py) |
 | 2026-07-05 | 3Sum | Two Pointers | Medium | [3Sum.py](two-pointers/3Sum.py) |
-
+| 2026-07-06 | Container with most water | Two Pointers | Medium | [container_with_most_water.py](two-pointers/container_with_most_water.py) |
 
 ---
 
